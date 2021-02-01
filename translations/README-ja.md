@@ -352,7 +352,7 @@ OR：
 	- 私の輝く本のレポート：https://startupnextdoor.com/book-report-data-structures-and-algorithms-in-python/
 
 
-###オプションの書籍
+### オプションの書籍
 
 **ソフトウェア工学の長年の経験があり、もっと面白い面接を期待しない限り、これらのことをお勧めする人もいます。**
 
@@ -906,7 +906,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 
 ## さらに多くの知識
 
-- ###再帰
+- ### 再帰
 	- [ ] 再帰とバックトラックに関するスタンフォードの講義：
 		- [ ]  [講義8 |プログラミングの抽象化(ビデオ)](https://www.youtube.com/watch?v=gl3emqCuueQ&list=PLFE6E58F856038C69&index=8)
 		- [ ]  [講義9 |プログラミングの抽象化(ビデオ)](https://www.youtube.com/watch?v=uFJhEPrbycQ&list=PLFE6E58F856038C69&index=9)
